@@ -1,0 +1,2 @@
+FindWords by Robert Rayment.
+Finds words starting with, containing, ending with, ><= length.  Can use any combination of these conditions.  Two selectable dictionaries with words including plurals or proper names.  Both derived from UKACD's word list see UKACD.txt.
